@@ -2,7 +2,6 @@ import project02.AdministrativeStaff;
 import project02.Faculty;
 import project02.Staff;
 
-
 public class Test {
     public static void main(String[] args) {
 
